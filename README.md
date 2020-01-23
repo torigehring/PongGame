@@ -9,7 +9,8 @@
 5. Return to the command prompt.
 6. Navigate to the folder you wish to add the game files.
 7. type `git clone https://github.com/torigehring/PongGame`
-8. Once the folder is extracted type: `./Pong.exe` to play the game
+8. Once the folder is extracted type navigate to the new PongGame directory
+9. Type `./Pong.exe` to play the game
 9. A window should appear and press start.
 
 ## How to get to a command line
