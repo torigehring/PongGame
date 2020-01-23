@@ -4,7 +4,7 @@
 1. Open a command prompt on your system. 
 2. Open a browser of your choice.
 3. Go to github repository at: https://github.com/torigehring/PongGame
-3. Click the clone button at the top right of the repository under the title. (clone the whole repository)
+3. Click the clone button at the top right of the repository under the title (clone the whole repository).
 4. Copy the address to clipboard.
 5. Return to the command prompt.
 6. Navigate to the folder you wish to add the game files.
