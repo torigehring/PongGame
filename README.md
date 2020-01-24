@@ -13,6 +13,8 @@
 9. Type `./Pong.exe` to play the game.
 9. A window should appear and press `Play!`.
 
+## Where to find the code involved
+In the /Code folder are all the C# scripts required for this game.
 
 ## Sources for Images
 - https://www.google.com/imgres?imgurl=https%3A%2F%2Fwww.collegetuitioncompare.com%2Fimages%2Fcolleges%2F142285-university-of-idaho.jpg&imgrefurl=https%3A%2F%2Fwww.collegetuitioncompare.com%2Fedu%2F142285%2Funiversity-of-idaho%2F&docid=6ycQQiNNTZuUsM&tbnid=btNZxpe9UhfzvM%3A&vet=10ahUKEwj-xMD2pZbnAhXSUs0KHaaVCcIQMwhkKAQwBA..i&w=700&h=394&bih=603&biw=1229&q=university%20of%20idaho%20I&ved=0ahUKEwj-xMD2pZbnAhXSUs0KHaaVCcIQMwhkKAQwBA&iact=mrc&uact=8
